@@ -1,0 +1,1 @@
+This folder contains the JavaDoc annotation output of the data structures mentioned in the /src/ folder. 
