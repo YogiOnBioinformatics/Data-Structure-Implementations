@@ -4,5 +4,5 @@ A Semi Magic Square is a square that is made up of smaller squares, the number o
 
 Click on the link below to see an example of a **Magic Square**, which is similiar to a Semi Magic Square except the diagonals of the square also sum up to the same exact unique value that all other columns and rows sum up to. 
 
-https://en.wikipedia.org/wiki/File:Magicsquareexample.svg
+https://upload.wikimedia.org/wikipedia/commons/e/e4/Magicsquareexample.svg
 
