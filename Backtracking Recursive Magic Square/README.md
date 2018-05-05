@@ -4,5 +4,5 @@ A Semi Magic Square is a square that is made up of smaller squares, the number o
 
 Here's a visual example of this square: 
 
-![Alt Text](https://en.wikipedia.org/wiki/File:Magicsquareexample.svg)
+![Alt Text](https://en.wikipedia.org/wiki/File:Magicsquareexample.svg?raw=true)
 
