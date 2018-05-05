@@ -2,7 +2,7 @@
 
 Compilation: 
 
-javac SemiMagic.java 
+    - javac SemiMagic.java 
 
 Execution: 
 
